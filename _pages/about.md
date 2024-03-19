@@ -1,3 +1,14 @@
+---
+permalink: /
+title: "About me"
+excerpt: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
+
 # About Me
 
 I am Arun Roy, a passionate researcher in the field of Astronomy and Astrophysics, currently serving as a Post Doctoral Fellow at the Indian Institute of Astrophysics, Bangalore. With a PhD in Physics from CHRIST (Deemed to be University), my research primarily revolves around the study of young stellar objects and binaries, particularly focusing on the optical and infrared properties of Herbig Ae/Be stars.
