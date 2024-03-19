@@ -21,7 +21,7 @@ repository               : "arunroyon/arunroyon.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpeg"
+  avatar           : "profile.JPG"
   name             : "Your Sidebar Name"
   pronouns         : # example: "he/him"  
   bio              : "Arun Roy is a Post Doctoral Fellow at the Indian Institute of Astrophysics in Bangalore, India. He holds a PhD in Physics from CHRIST (Deemed to be University) and has contributed extensively to research on young stellar objects. Arun's work focuses on understanding the optical and infrared properties of Herbig Ae/Be stars."
